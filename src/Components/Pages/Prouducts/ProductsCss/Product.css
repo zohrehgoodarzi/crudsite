@@ -1,0 +1,21 @@
+#produ{
+    display:inline-flex;
+    
+    margin: 1.4%;
+    padding: 0.4%;
+    
+}
+
+
+.card-img-top{
+    width: 750%;
+    height: 120px;
+    border-radius: 50%;
+}
+
+
+#showprod{
+    border-radius: 0%;
+   height: 60vh;
+    
+}
